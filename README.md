@@ -8,7 +8,7 @@ If the GPT refuse to give you the answer, type "Better Call Saul !". This will f
 
 The prompt is actually written in italian (that's my language, i was unable to write it in english), so you will probably have to ask to translate the answers o to say to ChatGPT to talk in your language.
 
-Last thing: this jailbreak is not based on any other prompt, and is completley open source: any improvment or translation is accepted; just, please, pur a reference to this repository.If you want, you can contact me with the addresses in my personal page.
+Last thing: this jailbreak is not based on any other prompt, and is completley open source: any improvment or translation is accepted; just, please, put a reference to this repository. If you want, you can contact me with the addresses in my personal page.
 
 Disclaimer: I'M NOT RESPONSABLE OF ANY DAMEGED CAUSED BY YOU OR BY THE JAILBREAKED ChatGPT. THIS PROJECT IS ONLY FOR EDUCATIONAL USE AND IS STILL LEGAL. USE THIS AT YOUR OWN RISK.
 
