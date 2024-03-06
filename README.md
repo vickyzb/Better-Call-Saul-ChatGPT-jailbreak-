@@ -6,7 +6,7 @@ Is very simple: paste the prompt and type in the "[QUESTION HERE]" box the quest
 
 If the GPT refuse to give you the answer, type "Better Call Saul !". This will fix it, as this is a salvage key if the jailbreak stop working fine. If ChatGPT still refuse to answer, just paste the jailbreak prompt in a new chat and ask again.
 
-The prompt is actually written in italian (that's my language, i was una le to write it in english), so you will probably have to ask to translate the answers o to say to ChatGPT to talk in your language.
+The prompt is actually written in italian (that's my language, i was unable to write it in english), so you will probably have to ask to translate the answers o to say to ChatGPT to talk in your language.
 
 Last thing: this jailbreak is not based on any other prompt, and is completley open source: any improvment or translation is accepted; just, please, pur a reference to this repository.If you want, you can contact me with the addresses in my personal page.
 
