@@ -1,6 +1,6 @@
 # Better Call Saul ChatGPT jailbreak
 
-Hi everyone ! This Is a small guide to use correctly my prompt.
+Hi everyone ! This Is a small guide to use correctly my prompt. You can find it in the "JB" file.
 
 Is very simplex: paste the prompt and type in the "[QUESTION HERE]" box the question for ChatGPT. Of course the IA will respond also if the question is angainst the API for ethical guidelines and OpenAI's policies.
 
